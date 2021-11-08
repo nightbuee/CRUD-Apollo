@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "apollo-server": "^2.16.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.3.0",
     "graphql-tools": "^6.0.15",
     "mongoose": "^5.9.25"
